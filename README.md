@@ -1,0 +1,1 @@
+Use the left and right arrow keys to move side to side. Us the up arrow key to jump. Once you reach the green marker you will be locked in place and must make a shot to move on to the next level. Rotate the angle of the shot counterclockwise with "w" and clockwise with "s". Shoot with the spacebar  
